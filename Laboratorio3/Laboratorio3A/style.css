@@ -1,0 +1,60 @@
+body {
+    background:black;
+}
+
+.fondoBotones {
+    background: #282323;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    width: 100%
+}
+
+nav li {
+    text-align: center;
+    font-family: Arial;
+    font-size: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    display: block;
+    font-weight: bold;
+    font-family: Calibri;
+    padding: 20px;
+    width: 100px;
+}
+
+nav a:hover, a:active {
+    background-color: #51515f;
+}
+
+p {
+    padding-left: 25px;
+    font-family: Calibri;
+    color: white;
+}
+
+header {
+    background: #66637c;
+}
+
+h1 {
+    font-family: 'Comic Sans MS';
+    padding-left: 25px;
+    padding-top: 20px;
+    padding-bottom: 0px;
+}
+
+b {
+    font-size: 15px;
+}
+
+footer {
+    text-align: center;
+    font-size: 12px;
+}
